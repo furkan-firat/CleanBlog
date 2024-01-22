@@ -1,6 +1,6 @@
 # CLEAN BLOG
 
-**LIVE DEMO:** [CLEAN-BLOG]()
+**LIVE DEMO:** [CLEAN-BLOG](https://clean-blog-sxni.onrender.com/)
 
 Clean Blog is a web application developed with nodejs. You can add your posts with a title and a description. You can also display, edit and delete the post you have already added.
 
@@ -24,13 +24,13 @@ Also make sure to connect your own database before you start the app. DB connect
 
 You can display the posts you have added here. Each post is clickable and when you click on one of them, it is going to lead you to its edit page.
 
-![Index Page]()
+![Index Page](/readmeimgs/indexPage.png)
 
 #### Add Post Page
 
 You can add a new post on this page.
 
-![Add Post Page]()
+![Add Post Page](/readmeimgs/addNewPost.png)
 
 #### Edit Page
 
